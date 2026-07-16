@@ -1,0 +1,21 @@
+# Raw MCBS survey data is not distributed in this repo — download it from CMS.
+data/
+*.csv
+*.sas7bdat
+*.xpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python-version
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
