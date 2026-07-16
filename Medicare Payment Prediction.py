@@ -12,7 +12,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 
 df = pd.read_csv("/Users/ethanc/test_sample_cleaned_v2.csv")
-print(df.head(1)
+print(df.head(1))
 
 
 #making combined datasets
